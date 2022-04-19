@@ -1,9 +1,9 @@
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
 
-html, body { height: 100%; background: red; }
+html, body { height: 100%; background:rgb(227, 187, 67) }
 body {
-  font-family: 'Noto Sans KR', sans-serif; color: #666666;
+  font-family: 'Noto Sans KR', sans-serif; color: #205c79;
 }
 ul, ol, li { list-style: none; }
 a { color: #666666;}
